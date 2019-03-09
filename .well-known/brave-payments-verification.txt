@@ -1,1 +1,4 @@
+This is a Brave Rewards publisher verification file.
 
+Domain: bvsriram.github.io 
+Token: 305936ce4a890a2610bc5befe3d588d9e44c051efc70560b819f29d351290605
